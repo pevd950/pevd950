@@ -8,7 +8,7 @@ I'm a full-stack engineer who enjoys buseful software. My background spans backe
 - Solving real problems for real people
 - Building tools that make life easier for developers and users alike
 
-When I'm not coding, you'll probably find me exploring new music, taking care of my plants, tinkering with home automation projects, or experimenting with AI tools to simplify my life. I'm also likely hanging out with my cats, Plato and Clea, or making another pour-over coffee :coffee.
+When I'm not coding, you'll probably find me exploring new music, taking care of my plants, tinkering with home automation projects, or experimenting with AI tools to simplify my life. I'm also likely hanging out with my cats, Plato and Clea, or making another pour-over coffee ☕
 
 Feel free to reach out if you want to collaborate or just chat about tech, automation, or anything interesting!
 
