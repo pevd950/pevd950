@@ -8,9 +8,6 @@ I'm a full-stack engineer who loves building software. My background spans backe
 - Solving real-world problems with practical solutions
 - Building tools that make life easier for developers and users alike
 
-Outside of coding, you'll probably find me diving into new music, taking care of my (many!) houseplants, or geeking out over home automation and AI. I'm usually hanging out with my cats, Plato and Clea
-
-
 When I'm not coding, you'll probably find me vibing to some alt rock, tinkering with home automation projects,experimenting with AI, or following a new rabbit hole for the week. I've got way too many plants, love myself a good pour over ☕ have two lovely cats (Plato & Clea)
 
 Feel free to reach out if you want to collaborate or just chat about tech, automation, or anything interesting!
