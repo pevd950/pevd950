@@ -1,16 +1,17 @@
-## Hi there, I'm Pablo 👋
+## Hey, I'm Pablo 👋
 
-I'm a full-stack engineer who loves building software. My background spans backend systems, cloud infrastructure, and UI development, but I'm most interested in the places where these intersect to create great user experiences.
+I'm a full-stack engineer focused on building software that's both practical and enjoyable to use. My experience covers backend development, UI design, and working with cloud services.
 
-### What I care about:
-- Clean, maintainable code that others can understand and build upon
-- Constantly exploring new tech, tools, and apps just because it's fun
-- Solving real-world problems with practical solutions
-- Building tools that make life easier for developers and users alike
+### What I'm into:
 
-When I'm not coding, you'll probably find me vibing to some alt rock, tinkering with home automation projects,experimenting with AI, or following a new rabbit hole for the week. I've got way too many plants, love myself a good pour over ☕ have two lovely cats (Plato & Clea)
+* Writing clean, maintainable code
+* Exploring new tech and tooling
+* Solving practical problems with straightforward solutions
+* Creating tools that improve workflows for developers and users
 
-Feel free to reach out if you want to collaborate or just chat about tech, automation, or anything interesting!
+Outside work, I spend my time listening to alt rock, tinkering with home automation, experimenting with AI, and accumulating way too many houseplants. I'm also into specialty coffee and hanging out with my two cats, Plato & Clea.
+
+Feel free to reach out to collaborate or just talk tech, automation, or whatever else you're into!
 
 <!--
 **pevd950/pevd950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
