@@ -2,12 +2,10 @@
 
 I'm a full-stack engineer focused on building software that's both practical and enjoyable to use. My experience covers backend development, UI design, and working with cloud services.
 
-### What I'm into:
+### What I like
 
-* Writing clean, maintainable code
+* Building things
 * Exploring new tech and tooling
-* Solving practical problems with straightforward solutions
-* Creating tools that improve workflows for developers and users
 
 Outside work, I spend my time listening to alt rock, tinkering with home automation, experimenting with AI, and accumulating way too many houseplants. I'm also into specialty coffee and hanging out with my two cats, Plato & Clea.
 
